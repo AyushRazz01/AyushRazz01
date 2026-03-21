@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:B0E0E6&height=200&section=header&text=AYUSH%20RAJ&fontSize=40&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20|%20MERN%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descAlign=50&opacity=80&mirror=true" alt="Ayush Raj Banner" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AYUSH%20RAJ&fontSize=40&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20|%20MERN%20Stack%20Developer%20|%20DSA%20Enthusiast&descAlignY=55&descAlign=50&opacity=80&mirror=true" alt="Ayush Raj Banner" />
 <!-- Animated typing intro -->
 <h1 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
